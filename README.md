@@ -3,7 +3,7 @@
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
-This is [Frontend Mentor](https://www.frontendmentor.io) I had build.
+This is [Frontend Mentor](https://www.frontendmentor.io) challenge I had build.
 Look At [Live Version](https://frontend-rps-game.netlify.app/)
 
 ## The challenge
