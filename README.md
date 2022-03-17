@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 This is [Frontend Mentor](https://www.frontendmentor.io) I had build.
-Look At [Live Version](http://www.frontend-rps-game.netlify.app/)
+Look At [Live Version](https://frontend-rps-game.netlify.app/)
 
 ## The challenge
 
